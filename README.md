@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align=center>
+
+  ## 😎 SKILL 😎
+  [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]
+  
+
